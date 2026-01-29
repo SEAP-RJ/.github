@@ -1,5 +1,3 @@
-# .github-private
-
 ## Repositório Privado - SEAP-RJ
 
 Este é o repositório privado da Secretaria de Estado de Administração Penitenciária do Rio de Janeiro.
