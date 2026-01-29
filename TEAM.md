@@ -122,18 +122,18 @@ Desenvolver sistemas e ferramentas digitais que promovam a eficiência, transpar
 
 ## Contato e Colaboração
 
-### Como Contribuir
-Interessado em contribuir com nossos projetos? 
+### Como Contribuir (Membros Internos)
+Membros da equipe SEAP-RJ podem contribuir:
 
-1. Confira nossos repositórios públicos
+1. Acesse os repositórios internos da organização
 2. Leia o CONTRIBUTING.md de cada projeto
-3. Abra issues para sugestões
-4. Faça pull requests
+3. Abra issues para sugestões e bugs
+4. Faça pull requests seguindo as diretrizes do projeto
 
 ### Comunicação
 - **GitHub**: Repositórios e documentação técnica
-- **E-mail**: Para contatos oficiais
 - **Slack/Teams**: Comunicação interna da equipe
+- **E-mail Institucional**: Através dos canais oficiais da SEAP-RJ
 
 ## Valores da Equipe
 
@@ -151,7 +151,7 @@ Interessado em contribuir com nossos projetos?
 
 ## Oportunidades
 
-Estamos sempre em busca de profissionais talentosos para se juntar à nossa equipe. Se você é apaixonado por tecnologia e quer fazer a diferença no serviço público, acompanhe nossas vagas!
+A SEAP-RJ valoriza o desenvolvimento profissional e busca profissionais talentosos. Para informações sobre oportunidades de carreira no serviço público estadual, consulte os canais oficiais do Governo do Estado do Rio de Janeiro.
 
 ---
 
